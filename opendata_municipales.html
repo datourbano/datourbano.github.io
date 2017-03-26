@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head lang="es">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>OpenData Municipales</title>
+    <style>
+      body, html{
+        height: 100%;
+        border: 0;
+        padding: 0;
+        margin: 0;
+      }
+      #map{
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+  <script>
+    var iderioja_config = {
+      "init_lat": 40.41,
+      "init_lng": -3.70,
+      "capa_geojson": [
+        {"url": "https://raw.githubusercontent.com/datourbano/datourbano.github.io/master/opendata_municipales.geojson",
+        }
+      ],
+      "popup": 2,
+      "fondo_base": "carto-light_all"
+    }
+  </script>
+  <script src="https://apigeo.larioja.org/v1/iderioja.js"></script>
+</html>
