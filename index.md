@@ -6,6 +6,9 @@ Recopilación de datos geográficos urbanos procedentes de servicios de datos ab
 
 #### **ANDALUCÍA**
   - [Sevilla](https://datourbano.github.io/sevilla)
+
+#### **CANTABRIA**
+  - [Santander](https://datourbano.github.io/santander)
   
 #### **CATALUÑA**
   - [Barcelona](https://datourbano.github.io/barcelona)
