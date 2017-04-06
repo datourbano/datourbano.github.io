@@ -6,17 +6,21 @@ Recopilación de datos geográficos urbanos procedentes de servicios de datos ab
 
 #### **ANDALUCÍA**
   - [Sevilla](https://datourbano.github.io/sevilla)
+
+#### **CANTABRIA**
+  - [Santander](https://datourbano.github.io/santander)
   
 #### **CATALUÑA**
   - [Barcelona](https://datourbano.github.io/barcelona)
   
-#### **EUSKADI-PAÍS VASCO**
+#### **PAÍS VASCO**
   - [Donostia/San Sebastián](https://datourbano.github.io/donostia_san_sebastian)
+  - [Vitoria-Gasteiz](https://datourbano.github.io/vitoria_gasteiz)
 
 #### **LA RIOJA**
   - [Logroño](https://datourbano.github.io/logrono)
   
-#### **MADRID**
+#### **COMUNIDAD DE MADRID**
   - [Madrid](https://datourbano.github.io/madrid)
 
 <br />
@@ -27,4 +31,4 @@ Recopilación de datos geográficos urbanos procedentes de servicios de datos ab
 
 La información contenida en los archivos originales, ha sido sometida a distintos procesos y tratamientos para su expresión en el sistema geográfico de referencia OGC CRS:84 ([EPSG:4326](https://epsg.io/4326) lon-lat)  y formato [GeoJSON](http://geojson.org/), con una codificación de caracteres: UTF8.
 
-Este repositorio es una iniciativa personal promovida por [@gonzalo_lpgc](http:twitter.com/gonzalo_lpgc), *en ningún caso debe ser confundido con una fuente de datos oficial*.
+Este repositorio es una iniciativa personal, por lo que **en ningún caso debe ser confundido con una fuente de datos oficial**.
