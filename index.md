@@ -14,7 +14,7 @@ Recopilación de datos geográficos urbanos procedentes de servicios de datos ab
   - [Barcelona](https://datourbano.github.io/barcelona)
   
 #### **EXTREMADURA**
-  - [Cáceres](https://datourbano.github.io/cáceres)
+  - [Cáceres](https://datourbano.github.io/caceres)
   
 #### **COMUNIDAD DE MADRID**
   - [Madrid](https://datourbano.github.io/madrid)
